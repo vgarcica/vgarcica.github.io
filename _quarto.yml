@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  # Solo se publican estas páginas (README e INSTRUCCIONES quedan fuera)
+  render:
+    - index.qmd
+    - projects.qmd
+    - research.qmd
+    - teaching.qmd
+    - cv.qmd
+
+website:
+  title: "Víctor García Carrasco"
+  description: "Physicist and PhD in Statistics & Operations Research. Simulation, predictive modelling and optimisation for energy and water systems."
+  site-url: https://vgarcica.github.io
+  favicon: images/profile.jpg
+  image: images/profile.jpg
+  open-graph: true
+  twitter-card: true
+  page-navigation: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/vgarcica
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vgarcia81/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Víctor García Carrasco"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true

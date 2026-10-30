@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+---
+
+::: {.page-intro}
+I teach simulation and network models at the Universitat Politècnica de Catalunya (UPC), Department of Statistics and Operations Research. My lab assignments use the same tools I build on [OR Labs](https://orlabs.cloud), which students can access with their university email.
+:::
+
+## Courses
+
+::: {.entry}
+[2023–present]{.when}
+
+::: {}
+**Discrete Network Models** · MSc in Statistics and Operations Research
+
+Network optimisation, routing and combinatorial problems, with exact and heuristic methods.
+:::
+:::
+
+::: {.entry}
+[2024–present]{.when}
+
+::: {}
+**Simulation** · BSc in Informatics Engineering
+
+Discrete-event simulation, design of experiments and system dynamics, with hands-on lab assignments.
+:::
+:::

@@ -1,0 +1,54 @@
+---
+title: "Research"
+---
+
+::: {.page-intro}
+My research combines simulation and optimisation to support decisions in energy, water and public health systems.
+:::
+
+## PhD thesis
+
+::: {.entry}
+[2026]{.when}
+
+::: {}
+**El nexe aigua-energia de Catalunya davant la transició energètica: simulació horària, dessalinització oportunista i optimització multi-objectiu**
+
+*The water–energy nexus of Catalonia facing the energy transition: hourly simulation, opportunistic desalination and multi-objective optimisation.* Universitat Politècnica de Catalunya. Supervisor: P. Fonseca. Graded Excellent.
+:::
+:::
+
+## Reports
+
+::: {.pub-list}
+- Sanz, E.; [García Carrasco, V.]{.me} (2026). [Cierre nuclear y transición energética: el caso de Almaraz](https://es.greenpeace.org/es/wp-content/uploads/sites/3/2026/02/Informe-cierre-Almaraz-pag.pdf). [Report for Greenpeace Spain.]{.venue}
+:::
+
+## Conference papers
+
+::: {.pub-list}
+- [García, V.]{.me}; Fonseca, P. (2026). [Energy Transition and Sustainable Water Management in Catalonia: Towards a Holistic Simulation Model](https://link.springer.com/book/10.1007/978-3-032-21811-7). [*Decision Sciences*, DSA ISC 2025, Catania. Springer, pp. 124–138.]{.venue}
+- Fonseca, P.; García, J.; [García, V.]{.me}; Silva, J.; Roma, J.; Pi, X. (2020). [SDL cellular automaton COVID-19 conceptualization](https://doi.org/10.23919/GC-ElecEng48342.2020). [*2020 Global Congress on Electrical Engineering (GC-ElecEng)*, Valencia. IEEE, pp. 144–153.]{.venue}
+:::
+
+## Journal articles
+
+::: {.pub-list}
+- Fonseca, P.; García, J.; [García, V.]{.me} (2023). [Modeling SARS-CoV-2 true infections in Catalonia through a digital twin](https://doi.org/10.1002/adts.202200917). [*Advanced Theory and Simulations*, 6(7), 2200917.]{.venue}
+- Fonseca, P.; [García, V.]{.me}; García, J. (2023). [Modelling influenza and SARS-CoV-2 interaction: analysis for Catalonia region](https://doi.org/10.1177/17483026231186012). [*Journal of Algorithms & Computational Technology*, 17.]{.venue}
+- Fonseca, P.; García, J.; [García, V.]{.me}; Pi, X.; Wainer, G. (2022). [Formal modeling and simulation for SARS-CoV-2 containment scenarios in Catalonia](https://doi.org/10.1109/MCSE.2022.3186227). [*Computing in Science & Engineering*, 24(3), 86–90.]{.venue}
+- Fonseca, P.; García, J.; [García, V.]{.me}; Pi, X. (2021). [SARS-CoV-2 spread forecast dynamic model validation through digital twin approach, Catalonia case study](https://doi.org/10.3390/math9141660). [*Mathematics*, 9(14), 1660.]{.venue}
+- Fonseca, P.; [García, V.]{.me}; García, J. (2020). [SEIRD COVID-19 formal characterization and model comparison validation](https://doi.org/10.3390/app10155162). [*Applied Sciences*, 10(15), 5162.]{.venue}
+:::
+
+## Research projects
+
+::: {.entry}
+[2020]{.when}
+
+::: {}
+**SDL-PAND: pandemic simulation to test containment strategies with cellular automata and intelligent agents using formal SDL languages**
+
+Researcher. Funded by the UPC Centre for Development Cooperation. Coordinator: P. Fonseca.
+:::
+:::

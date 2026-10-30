@@ -1,0 +1,85 @@
+---
+title: "CV"
+---
+
+::: {.page-intro}
+Physicist with a PhD in Statistics and Operations Research (UPC, 2026). I build simulation, predictive and optimisation models in Python, applied to energy, water and public health.
+:::
+
+[<i class="bi bi-file-earmark-arrow-down"></i> Download CV (PDF)](files/CV_Victor_Garcia_Carrasco.pdf){.btn-cv}
+
+## Experience
+
+::: {.entry}
+[2023–present]{.when}
+
+::: {}
+**Lecturer · Universitat Politècnica de Catalunya**
+
+Department of Statistics and Operations Research. Simulation (BSc) and Discrete Network Models (MSc).
+:::
+:::
+
+::: {.entry}
+[2021–2026]{.when}
+
+::: {}
+**Doctoral researcher · UPC**
+
+Water–energy nexus of Catalonia: hourly simulation, reservoir forecasting, multi-objective optimisation and opportunistic desalination.
+:::
+:::
+
+::: {.entry}
+[2020–2023]{.when}
+
+::: {}
+**Researcher · UPC**
+
+COVID-19 epidemiological simulation: SEIRD models, digital twin and cellular automata (SDL-PAND project).
+:::
+:::
+
+## Education
+
+::: {.entry}
+[2026]{.when}
+
+::: {}
+**PhD in Statistics and Operations Research** · UPC · Excellent
+:::
+:::
+
+::: {.entry}
+[2012]{.when}
+
+::: {}
+**Postgraduate course in Quantitative Techniques for Financial Markets** · UPC
+:::
+:::
+
+::: {.entry}
+[2008]{.when}
+
+::: {}
+**MSc in Computational and Applied Physics** · UPC
+:::
+:::
+
+::: {.entry}
+[2007]{.when}
+
+::: {}
+**Degree in Physics** · Universitat de Barcelona
+:::
+:::
+
+## Skills
+
+::: {.tags}
+[Python]{.tag} [NumPy]{.tag} [pandas]{.tag} [SciPy]{.tag} [Numba]{.tag} [scikit-learn]{.tag} [PyTorch]{.tag} [TensorFlow]{.tag} [R]{.tag} [MATLAB]{.tag} [Mathematica]{.tag} [Fortran]{.tag} [GPSS]{.tag} [Insight Maker]{.tag} [SDL]{.tag} [Web scraping]{.tag} [LLM-assisted development]{.tag}
+:::
+
+## Languages
+
+Catalan and Spanish: native · English: reading B2, speaking and writing B1

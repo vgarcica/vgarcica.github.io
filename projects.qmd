@@ -1,0 +1,144 @@
+---
+title: "Projects"
+---
+
+::: {.page-intro}
+Models and tools I have built, from research to working web applications. Most of them run in the browser, so you can try them directly.
+:::
+
+## Featured
+
+::: {.project-grid}
+::: {.project-card}
+[<i class="bi bi-cpu"></i>]{.pc-icon}
+
+### OR Labs
+
+An operations research web platform that I designed, built and deployed end to end. It hosts four interactive tools in English, Spanish and Catalan, free to use without signing up and with extended access for students. Front ends built with LLM-assisted development.
+
+::: {.tags}
+[Python]{.tag} [Web apps]{.tag} [Simulation]{.tag} [Optimisation]{.tag}
+:::
+
+::: {.card-links}
+[orlabs.cloud →](https://orlabs.cloud)
+:::
+:::
+
+::: {.project-card}
+[<i class="bi bi-lightning-charge"></i>]{.pc-icon .amber}
+
+### Almaraz nuclear phase-out
+
+Electricity-market model behind the Greenpeace Spain report *Cierre nuclear y transición energética: el caso de Almaraz* (2026), with Eloy Sanz (URJC). Wholesale prices driven by gas prices, with battery damping calibrated on CAISO data, comparing closure and extension scenarios for Almaraz I and II.
+
+::: {.tags}
+[Electricity markets]{.tag} [Scenario analysis]{.tag} [Storage]{.tag}
+:::
+
+::: {.card-links}
+[Read the report →](https://es.greenpeace.org/es/wp-content/uploads/sites/3/2026/02/Informe-cierre-Almaraz-pag.pdf)
+:::
+:::
+
+::: {.project-card}
+[<i class="bi bi-droplet"></i>]{.pc-icon}
+
+### Water–energy nexus of Catalonia
+
+PhD project. An hourly simulation model integrating renewable generation, electricity demand, reservoirs and desalination, with multi-objective optimisation of transition scenarios (emissions, cost and water security). Proposes opportunistic desalination: desalinate when renewables are in surplus.
+
+::: {.tags}
+[Hourly simulation]{.tag} [Multi-objective]{.tag} [Water]{.tag}
+:::
+
+::: {.card-links}
+[Code on GitHub →](https://github.com/vgarcica/water-energy-nexus-cat-model)
+[Springer paper →](https://link.springer.com/book/10.1007/978-3-032-21811-7)
+:::
+:::
+
+::: {.project-card}
+[<i class="bi bi-water"></i>]{.pc-icon}
+
+### Reservoir volume forecasting
+
+Predictive model of the water stored in the reservoirs of Catalonia's internal river basins, developed as part of the PhD.
+
+::: {.tags}
+[Time series]{.tag} [Machine learning]{.tag} [Python]{.tag}
+:::
+
+::: {.card-links}
+[Code on GitHub]{.soon} · [coming soon]{.soon}
+:::
+:::
+:::
+
+## Tools on OR Labs
+
+::: {.project-grid}
+::: {.project-card .compact}
+[<i class="bi bi-gear-wide-connected"></i>]{.pc-icon}
+
+### PyGPSS-X
+
+Discrete-event simulation engine that modernises GPSS semantics with drag-and-drop blocks. Queues, production lines and logistics.
+
+::: {.card-links}
+[Try it →](https://orlabs.cloud/pygpss)
+:::
+:::
+
+::: {.project-card .compact}
+[<i class="bi bi-signpost-split"></i>]{.pc-icon}
+
+### Opt-Lab
+
+Solves travelling salesman and vehicle routing problems with exact and heuristic algorithms.
+
+::: {.card-links}
+[Try it →](https://orlabs.cloud/optlab)
+:::
+:::
+
+::: {.project-card .compact}
+[<i class="bi bi-sun"></i>]{.pc-icon .amber}
+
+### EnerSim
+
+The Iberian electricity mix hour by hour: generation by technology, demand coverage, prices and renewable penetration.
+
+::: {.card-links}
+[Try it →](https://orlabs.cloud/enersim)
+:::
+:::
+
+::: {.project-card .compact}
+[<i class="bi bi-coin"></i>]{.pc-icon .amber}
+
+### EcoSim
+
+Non-equilibrium kinetic model with heterogeneous agents to generate and study macroeconomic variables.
+
+::: {.card-links}
+[Try it →](https://orlabs.cloud/ecosim)
+:::
+:::
+:::
+
+## Earlier research
+
+::: {.project-grid}
+::: {.project-card .compact}
+[<i class="bi bi-virus"></i>]{.pc-icon}
+
+### COVID-19 digital twin
+
+SEIRD models, cellular automata and a digital twin to estimate true infections and test containment strategies in Catalonia (2020–2023). Five journal papers.
+
+::: {.card-links}
+[Main paper →](https://doi.org/10.1002/adts.202200917)
+:::
+:::
+:::

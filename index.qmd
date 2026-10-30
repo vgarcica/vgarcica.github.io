@@ -1,0 +1,105 @@
+---
+pagetitle: "Víctor García Carrasco"
+---
+
+::: {.hero}
+![](images/profile.jpg){.avatar fig-alt="Víctor García Carrasco"}
+
+::: {.hero-text}
+[PhD · Statistics & Operations Research]{.eyebrow}
+
+[Víctor García Carrasco]{.hero-name}
+
+[Simulation, predictive modelling and optimisation for energy and water systems]{.hero-role}
+
+I'm a physicist with a PhD from the Universitat Politècnica de Catalunya (UPC), where I teach simulation. For years I've built models to understand complex systems and make better decisions, from the spread of an epidemic to the Iberian electricity mix and water management in Catalonia. Now I want to bring that toolkit to applied problems in industry.
+
+[Lecturer at UPC · Open to roles in energy, data and R&D · Barcelona area]{.status}
+
+::: {.social}
+[<i class="bi bi-github"></i> GitHub](https://github.com/vgarcica)
+[<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/vgarcia81/)
+<!-- Bluesky: quita los marcadores de comentario y pon tu handle para activarlo
+[<i class="bi bi-bluesky"></i> Bluesky](https://bsky.app/profile/TU_USUARIO_BLUESKY)
+-->
+[<span class="orcid-id">iD</span> ORCID](https://orcid.org/0009-0003-6248-4426)
+[<i class="bi bi-envelope"></i> Email](mailto:victorgc81@gmail.com)
+:::
+:::
+:::
+
+## What I do
+
+::: {.skills}
+::: {}
+<i class="bi bi-diagram-3"></i>
+
+#### Simulation
+
+Discrete-event, system dynamics, agent-based models and digital twins.
+:::
+
+::: {}
+<i class="bi bi-graph-up"></i>
+
+#### Predictive modelling
+
+Time series, autoregressive models, machine learning and neural networks (scikit-learn, PyTorch, TensorFlow).
+:::
+
+::: {}
+<i class="bi bi-signpost-split"></i>
+
+#### Optimisation
+
+Multi-objective and network optimisation (TSP/VRP), evolutionary algorithms, Bayesian search.
+:::
+
+::: {}
+<i class="bi bi-lightning-charge"></i>
+
+#### Energy & water
+
+Iberian electricity mix, wholesale prices, storage and the water–energy nexus.
+:::
+:::
+
+## Selected work
+
+::: {.project-grid .three}
+::: {.project-card}
+[<i class="bi bi-cpu"></i>]{.pc-icon}
+
+### OR Labs
+
+A web platform for operations research that I designed, built and deployed: four interactive tools, in three languages, free to try.
+
+::: {.card-links}
+[Open orlabs.cloud →](https://orlabs.cloud)
+:::
+:::
+
+::: {.project-card}
+[<i class="bi bi-lightning-charge"></i>]{.pc-icon .amber}
+
+### Almaraz nuclear phase-out
+
+Hourly electricity-market model behind the Greenpeace Spain report on closing the Almaraz nuclear plant.
+
+::: {.card-links}
+[Read the report →](https://es.greenpeace.org/es/wp-content/uploads/sites/3/2026/02/Informe-cierre-Almaraz-pag.pdf)
+:::
+:::
+
+::: {.project-card}
+[<i class="bi bi-droplet"></i>]{.pc-icon}
+
+### Water–energy nexus
+
+PhD thesis: hourly simulation and multi-objective optimisation of Catalonia's energy transition and water supply.
+
+::: {.card-links}
+[More projects →](projects.qmd)
+:::
+:::
+:::

@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Physicist with a PhD in Statistics and Operations Research (UPC, 2026). I build simulation, predictive and optimisation models in Python, applied to energy, water and public health.\nDownload CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\n2023–present\n\nLecturer · Universitat Politècnica de Catalunya\nDepartment of Statistics and Operations Research. Simulation (BSc) and Discrete Network Models (MSc).\n\n\n\n2021–2026\n\nDoctoral researcher · UPC\nWater–energy nexus of Catalonia: hourly simulation, reservoir forecasting, multi-objective optimisation and opportunistic desalination.\n\n\n\n2020–2023\n\nResearcher · UPC\nCOVID-19 epidemiological simulation: SEIRD models, digital twin and cellular automata (SDL-PAND project)."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n2026\n\nPhD in Statistics and Operations Research · UPC · Excellent\n\n\n\n2012\n\nPostgraduate course in Quantitative Techniques for Financial Markets · UPC\n\n\n\n2008\n\nMSc in Computational and Applied Physics · UPC\n\n\n\n2007\n\nDegree in Physics · Universitat de Barcelona"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nPython NumPy pandas SciPy Numba scikit-learn PyTorch TensorFlow R MATLAB Mathematica Fortran GPSS Insight Maker SDL Web scraping LLM-assisted development"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\nCatalan and Spanish: native · English: reading B2, speaking and writing B1"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research combines simulation and optimisation to support decisions in energy, water and public health systems."
+  },
+  {
+    "objectID": "research.html#phd-thesis",
+    "href": "research.html#phd-thesis",
+    "title": "Research",
+    "section": "PhD thesis",
+    "text": "PhD thesis\n\n2026\n\nEl nexe aigua-energia de Catalunya davant la transició energètica: simulació horària, dessalinització oportunista i optimització multi-objectiu\nThe water–energy nexus of Catalonia facing the energy transition: hourly simulation, opportunistic desalination and multi-objective optimisation. Universitat Politècnica de Catalunya. Supervisor: P. Fonseca. Graded Excellent."
+  },
+  {
+    "objectID": "research.html#reports",
+    "href": "research.html#reports",
+    "title": "Research",
+    "section": "Reports",
+    "text": "Reports\n\n\nSanz, E.; García Carrasco, V. (2026). Cierre nuclear y transición energética: el caso de Almaraz. Report for Greenpeace Spain."
+  },
+  {
+    "objectID": "research.html#conference-papers",
+    "href": "research.html#conference-papers",
+    "title": "Research",
+    "section": "Conference papers",
+    "text": "Conference papers\n\n\nGarcía, V.; Fonseca, P. (2026). Energy Transition and Sustainable Water Management in Catalonia: Towards a Holistic Simulation Model. Decision Sciences, DSA ISC 2025, Catania. Springer, pp. 124–138.\nFonseca, P.; García, J.; García, V.; Silva, J.; Roma, J.; Pi, X. (2020). SDL cellular automaton COVID-19 conceptualization. 2020 Global Congress on Electrical Engineering (GC-ElecEng), Valencia. IEEE, pp. 144–153."
+  },
+  {
+    "objectID": "research.html#journal-articles",
+    "href": "research.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\nFonseca, P.; García, J.; García, V. (2023). Modeling SARS-CoV-2 true infections in Catalonia through a digital twin. Advanced Theory and Simulations, 6(7), 2200917.\nFonseca, P.; García, V.; García, J. (2023). Modelling influenza and SARS-CoV-2 interaction: analysis for Catalonia region. Journal of Algorithms & Computational Technology, 17.\nFonseca, P.; García, J.; García, V.; Pi, X.; Wainer, G. (2022). Formal modeling and simulation for SARS-CoV-2 containment scenarios in Catalonia. Computing in Science & Engineering, 24(3), 86–90.\nFonseca, P.; García, J.; García, V.; Pi, X. (2021). SARS-CoV-2 spread forecast dynamic model validation through digital twin approach, Catalonia case study. Mathematics, 9(14), 1660.\nFonseca, P.; García, V.; García, J. (2020). SEIRD COVID-19 formal characterization and model comparison validation. Applied Sciences, 10(15), 5162."
+  },
+  {
+    "objectID": "research.html#research-projects",
+    "href": "research.html#research-projects",
+    "title": "Research",
+    "section": "Research projects",
+    "text": "Research projects\n\n2020\n\nSDL-PAND: pandemic simulation to test containment strategies with cellular automata and intelligent agents using formal SDL languages\nResearcher. Funded by the UPC Centre for Development Cooperation. Coordinator: P. Fonseca."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Víctor García Carrasco",
+    "section": "",
+    "text": "PhD · Statistics & Operations Research\nVíctor García Carrasco\nSimulation, predictive modelling and optimisation for energy and water systems\nI’m a physicist with a PhD from the Universitat Politècnica de Catalunya (UPC), where I teach simulation. For years I’ve built models to understand complex systems and make better decisions, from the spread of an epidemic to the Iberian electricity mix and water management in Catalonia. Now I want to bring that toolkit to applied problems in industry.\nLecturer at UPC · Open to roles in energy, data and R&D · Barcelona area\n\n GitHub  LinkedIn  iD ORCID  Email"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Víctor García Carrasco",
+    "section": "What I do",
+    "text": "What I do\n\n\n\n\nSimulation\nDiscrete-event, system dynamics, agent-based models and digital twins.\n\n\n\n\n\nPredictive modelling\nTime series, autoregressive models, machine learning and neural networks (scikit-learn, PyTorch, TensorFlow).\n\n\n\n\n\nOptimisation\nMulti-objective and network optimisation (TSP/VRP), evolutionary algorithms, Bayesian search.\n\n\n\n\n\nEnergy & water\nIberian electricity mix, wholesale prices, storage and the water–energy nexus."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Víctor García Carrasco",
+    "section": "Selected work",
+    "text": "Selected work\n\n\n\n\nOR Labs\nA web platform for operations research that I designed, built and deployed: four interactive tools, in three languages, free to try.\n\nOpen orlabs.cloud →\n\n\n\n\n\n\nAlmaraz nuclear phase-out\nHourly electricity-market model behind the Greenpeace Spain report on closing the Almaraz nuclear plant.\n\nRead the report →\n\n\n\n\n\n\nWater–energy nexus\nPhD thesis: hourly simulation and multi-objective optimisation of Catalonia’s energy transition and water supply.\n\nMore projects →"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Models and tools I have built, from research to working web applications. Most of them run in the browser, so you can try them directly."
+  },
+  {
+    "objectID": "projects.html#featured",
+    "href": "projects.html#featured",
+    "title": "Projects",
+    "section": "Featured",
+    "text": "Featured\n\n\n\n\nOR Labs\nAn operations research web platform that I designed, built and deployed end to end. It hosts four interactive tools in English, Spanish and Catalan, free to use without signing up and with extended access for students. Front ends built with LLM-assisted development.\n\nPython Web apps Simulation Optimisation\n\n\norlabs.cloud →\n\n\n\n\n\n\nAlmaraz nuclear phase-out\nElectricity-market model behind the Greenpeace Spain report Cierre nuclear y transición energética: el caso de Almaraz (2026), with Eloy Sanz (URJC). Wholesale prices driven by gas prices, with battery damping calibrated on CAISO data, comparing closure and extension scenarios for Almaraz I and II.\n\nElectricity markets Scenario analysis Storage\n\n\nRead the report →\n\n\n\n\n\n\nWater–energy nexus of Catalonia\nPhD project. An hourly simulation model integrating renewable generation, electricity demand, reservoirs and desalination, with multi-objective optimisation of transition scenarios (emissions, cost and water security). Proposes opportunistic desalination: desalinate when renewables are in surplus.\n\nHourly simulation Multi-objective Water\n\n\nCode on GitHub → Springer paper →\n\n\n\n\n\n\nReservoir volume forecasting\nPredictive model of the water stored in the reservoirs of Catalonia’s internal river basins, developed as part of the PhD.\n\nTime series Machine learning Python\n\n\nCode on GitHub · coming soon"
+  },
+  {
+    "objectID": "projects.html#tools-on-or-labs",
+    "href": "projects.html#tools-on-or-labs",
+    "title": "Projects",
+    "section": "Tools on OR Labs",
+    "text": "Tools on OR Labs\n\n\n\n\nPyGPSS-X\nDiscrete-event simulation engine that modernises GPSS semantics with drag-and-drop blocks. Queues, production lines and logistics.\n\nTry it →\n\n\n\n\n\n\nOpt-Lab\nSolves travelling salesman and vehicle routing problems with exact and heuristic algorithms.\n\nTry it →\n\n\n\n\n\n\nEnerSim\nThe Iberian electricity mix hour by hour: generation by technology, demand coverage, prices and renewable penetration.\n\nTry it →\n\n\n\n\n\n\nEcoSim\nNon-equilibrium kinetic model with heterogeneous agents to generate and study macroeconomic variables.\n\nTry it →"
+  },
+  {
+    "objectID": "projects.html#earlier-research",
+    "href": "projects.html#earlier-research",
+    "title": "Projects",
+    "section": "Earlier research",
+    "text": "Earlier research\n\n\n\n\nCOVID-19 digital twin\nSEIRD models, cellular automata and a digital twin to estimate true infections and test containment strategies in Catalonia (2020–2023). Five journal papers.\n\nMain paper →"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach simulation and network models at the Universitat Politècnica de Catalunya (UPC), Department of Statistics and Operations Research. My lab assignments use the same tools I build on OR Labs, which students can access with their university email."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\n2023–present\n\nDiscrete Network Models · MSc in Statistics and Operations Research\nNetwork optimisation, routing and combinatorial problems, with exact and heuristic methods.\n\n\n\n2024–present\n\nSimulation · BSc in Informatics Engineering\nDiscrete-event simulation, design of experiments and system dynamics, with hands-on lab assignments."
+  }
+]

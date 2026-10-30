@@ -16,7 +16,7 @@ Physicist with a PhD in Statistics and Operations Research (UPC, 2026). I build 
 ::: {}
 **Lecturer · Universitat Politècnica de Catalunya**
 
-Department of Statistics and Operations Research. Simulation (BSc) and Discrete Network Models (MSc).
+Department of Statistics and Operations Research. Simulation (BSc) and Discrete Network Models (MSc), covering combinatorial optimisation and metaheuristics.
 :::
 :::
 
@@ -77,7 +77,7 @@ COVID-19 epidemiological simulation: SEIRD models, digital twin and cellular aut
 ## Skills
 
 ::: {.tags}
-[Python]{.tag} [NumPy]{.tag} [pandas]{.tag} [SciPy]{.tag} [Numba]{.tag} [scikit-learn]{.tag} [PyTorch]{.tag} [TensorFlow]{.tag} [R]{.tag} [MATLAB]{.tag} [Mathematica]{.tag} [Fortran]{.tag} [GPSS]{.tag} [Insight Maker]{.tag} [SDL]{.tag} [Web scraping]{.tag} [LLM-assisted development]{.tag}
+[Python]{.tag} [NumPy]{.tag} [pandas]{.tag} [SciPy]{.tag} [Numba]{.tag} [Machine learning]{.tag} [Deep learning]{.tag} [Metaheuristics]{.tag} [Combinatorial optimisation]{.tag} [Discrete-event simulation]{.tag} [R]{.tag} [MATLAB]{.tag} [Mathematica]{.tag} [Fortran]{.tag} [GPSS]{.tag} [Insight Maker]{.tag} [SDL]{.tag} [Web scraping]{.tag} [LLM-assisted development]{.tag}
 :::
 
 ## Languages

@@ -12,9 +12,9 @@ pagetitle: "Víctor García Carrasco"
 
 [Simulation, predictive modelling and optimisation for energy and water systems]{.hero-role}
 
-I'm a physicist with a PhD from the Universitat Politècnica de Catalunya (UPC), where I teach simulation. For years I've built models to understand complex systems and make better decisions, from the spread of an epidemic to the Iberian electricity mix and water management in Catalonia. Now I want to bring that toolkit to applied problems in industry.
+I'm a physicist with a PhD from the Universitat Politècnica de Catalunya (UPC), where I teach simulation and combinatorial optimisation. For years I've built models to understand complex systems and make better decisions, from the spread of an epidemic to the Iberian electricity mix and water management in Catalonia. Now I want to bring that toolkit to applied problems in industry.
 
-[Lecturer at UPC · Open to roles in energy, data and R&D · Barcelona area]{.status}
+[Lecturer at UPC · Open to industry roles in energy, data science and R&D · Barcelona area]{.status}
 
 ::: {.social}
 [<i class="bi bi-github"></i> GitHub](https://github.com/vgarcica)
@@ -44,7 +44,7 @@ Discrete-event, system dynamics, agent-based models and digital twins.
 
 #### Predictive modelling
 
-Time series, autoregressive models, machine learning and neural networks (scikit-learn, PyTorch, TensorFlow).
+Time series, regression and autoregressive models, machine learning and deep learning.
 :::
 
 ::: {}
@@ -52,7 +52,7 @@ Time series, autoregressive models, machine learning and neural networks (scikit
 
 #### Optimisation
 
-Multi-objective and network optimisation (TSP/VRP), evolutionary algorithms, Bayesian search.
+Combinatorial and multi-objective optimisation. Metaheuristics (genetic algorithms, particle swarm), exact methods and Bayesian search.
 :::
 
 ::: {}
@@ -61,6 +61,22 @@ Multi-objective and network optimisation (TSP/VRP), evolutionary algorithms, Bay
 #### Energy & water
 
 Iberian electricity mix, wholesale prices, storage and the water–energy nexus.
+:::
+
+::: {}
+<i class="bi bi-code-slash"></i>
+
+#### Scientific software
+
+Fast, production-ready Python: vectorisation, Numba, memoisation and parallel processing. LLM-assisted development of web front ends.
+:::
+
+::: {}
+<i class="bi bi-bar-chart-line"></i>
+
+#### Quantitative finance
+
+Portfolio management, asset allocation and quantitative analysis.
 :::
 :::
 
@@ -84,7 +100,7 @@ A web platform for operations research that I designed, built and deployed: four
 
 ### Almaraz nuclear phase-out
 
-Hourly electricity-market model behind the Greenpeace Spain report on closing the Almaraz nuclear plant.
+Co-author of the Greenpeace Spain report on closing the Almaraz nuclear plant; I built the hourly electricity-market model.
 
 ::: {.card-links}
 [Read the report →](https://es.greenpeace.org/es/wp-content/uploads/sites/3/2026/02/Informe-cierre-Almaraz-pag.pdf)

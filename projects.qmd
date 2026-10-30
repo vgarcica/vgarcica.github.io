@@ -30,7 +30,7 @@ An operations research web platform that I designed, built and deployed end to e
 
 ### Almaraz nuclear phase-out
 
-Electricity-market model behind the Greenpeace Spain report *Cierre nuclear y transición energética: el caso de Almaraz* (2026), with Eloy Sanz (URJC). Wholesale prices driven by gas prices, with battery damping calibrated on CAISO data, comparing closure and extension scenarios for Almaraz I and II.
+Co-author, with Eloy Sanz (URJC), of the Greenpeace Spain report *Cierre nuclear y transición energética: el caso de Almaraz* (2026). I built the hourly electricity-market model: wholesale prices driven by gas prices, with battery damping calibrated on CAISO data, comparing closure and extension scenarios for Almaraz I and II.
 
 ::: {.tags}
 [Electricity markets]{.tag} [Scenario analysis]{.tag} [Storage]{.tag}

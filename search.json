@@ -11,7 +11,7 @@
     "href": "cv.html#experience",
     "title": "CV",
     "section": "Experience",
-    "text": "Experience\n\n2023–present\n\nLecturer · Universitat Politècnica de Catalunya\nDepartment of Statistics and Operations Research. Simulation (BSc) and Discrete Network Models (MSc).\n\n\n\n2021–2026\n\nDoctoral researcher · UPC\nWater–energy nexus of Catalonia: hourly simulation, reservoir forecasting, multi-objective optimisation and opportunistic desalination.\n\n\n\n2020–2023\n\nResearcher · UPC\nCOVID-19 epidemiological simulation: SEIRD models, digital twin and cellular automata (SDL-PAND project)."
+    "text": "Experience\n\n2023–present\n\nLecturer · Universitat Politècnica de Catalunya\nDepartment of Statistics and Operations Research. Simulation (BSc) and Discrete Network Models (MSc), covering combinatorial optimisation and metaheuristics.\n\n\n\n2021–2026\n\nDoctoral researcher · UPC\nWater–energy nexus of Catalonia: hourly simulation, reservoir forecasting, multi-objective optimisation and opportunistic desalination.\n\n\n\n2020–2023\n\nResearcher · UPC\nCOVID-19 epidemiological simulation: SEIRD models, digital twin and cellular automata (SDL-PAND project)."
   },
   {
     "objectID": "cv.html#education",
@@ -25,7 +25,7 @@
     "href": "cv.html#skills",
     "title": "CV",
     "section": "Skills",
-    "text": "Skills\n\nPython NumPy pandas SciPy Numba scikit-learn PyTorch TensorFlow R MATLAB Mathematica Fortran GPSS Insight Maker SDL Web scraping LLM-assisted development"
+    "text": "Skills\n\nPython NumPy pandas SciPy Numba Machine learning Deep learning Metaheuristics Combinatorial optimisation Discrete-event simulation R MATLAB Mathematica Fortran GPSS Insight Maker SDL Web scraping LLM-assisted development"
   },
   {
     "objectID": "cv.html#languages",
@@ -81,21 +81,21 @@
     "href": "index.html",
     "title": "Víctor García Carrasco",
     "section": "",
-    "text": "PhD · Statistics & Operations Research\nVíctor García Carrasco\nSimulation, predictive modelling and optimisation for energy and water systems\nI’m a physicist with a PhD from the Universitat Politècnica de Catalunya (UPC), where I teach simulation. For years I’ve built models to understand complex systems and make better decisions, from the spread of an epidemic to the Iberian electricity mix and water management in Catalonia. Now I want to bring that toolkit to applied problems in industry.\nLecturer at UPC · Open to roles in energy, data and R&D · Barcelona area\n\n GitHub  LinkedIn  iD ORCID  Email"
+    "text": "PhD · Statistics & Operations Research\nVíctor García Carrasco\nSimulation, predictive modelling and optimisation for energy and water systems\nI’m a physicist with a PhD from the Universitat Politècnica de Catalunya (UPC), where I teach simulation and combinatorial optimisation. For years I’ve built models to understand complex systems and make better decisions, from the spread of an epidemic to the Iberian electricity mix and water management in Catalonia. Now I want to bring that toolkit to applied problems in industry.\nLecturer at UPC · Open to industry roles in energy, data science and R&D · Barcelona area\n\n GitHub  LinkedIn  iD ORCID  Email"
   },
   {
     "objectID": "index.html#what-i-do",
     "href": "index.html#what-i-do",
     "title": "Víctor García Carrasco",
     "section": "What I do",
-    "text": "What I do\n\n\n\n\nSimulation\nDiscrete-event, system dynamics, agent-based models and digital twins.\n\n\n\n\n\nPredictive modelling\nTime series, autoregressive models, machine learning and neural networks (scikit-learn, PyTorch, TensorFlow).\n\n\n\n\n\nOptimisation\nMulti-objective and network optimisation (TSP/VRP), evolutionary algorithms, Bayesian search.\n\n\n\n\n\nEnergy & water\nIberian electricity mix, wholesale prices, storage and the water–energy nexus."
+    "text": "What I do\n\n\n\n\nSimulation\nDiscrete-event, system dynamics, agent-based models and digital twins.\n\n\n\n\n\nPredictive modelling\nTime series, regression and autoregressive models, machine learning and deep learning.\n\n\n\n\n\nOptimisation\nCombinatorial and multi-objective optimisation. Metaheuristics (genetic algorithms, particle swarm), exact methods and Bayesian search.\n\n\n\n\n\nEnergy & water\nIberian electricity mix, wholesale prices, storage and the water–energy nexus.\n\n\n\n\n\nScientific software\nFast, production-ready Python: vectorisation, Numba, memoisation and parallel processing. LLM-assisted development of web front ends.\n\n\n\n\n\nQuantitative finance\nPortfolio management, asset allocation and quantitative analysis."
   },
   {
     "objectID": "index.html#selected-work",
     "href": "index.html#selected-work",
     "title": "Víctor García Carrasco",
     "section": "Selected work",
-    "text": "Selected work\n\n\n\n\nOR Labs\nA web platform for operations research that I designed, built and deployed: four interactive tools, in three languages, free to try.\n\nOpen orlabs.cloud →\n\n\n\n\n\n\nAlmaraz nuclear phase-out\nHourly electricity-market model behind the Greenpeace Spain report on closing the Almaraz nuclear plant.\n\nRead the report →\n\n\n\n\n\n\nWater–energy nexus\nPhD thesis: hourly simulation and multi-objective optimisation of Catalonia’s energy transition and water supply.\n\nMore projects →"
+    "text": "Selected work\n\n\n\n\nOR Labs\nA web platform for operations research that I designed, built and deployed: four interactive tools, in three languages, free to try.\n\nOpen orlabs.cloud →\n\n\n\n\n\n\nAlmaraz nuclear phase-out\nCo-author of the Greenpeace Spain report on closing the Almaraz nuclear plant; I built the hourly electricity-market model.\n\nRead the report →\n\n\n\n\n\n\nWater–energy nexus\nPhD thesis: hourly simulation and multi-objective optimisation of Catalonia’s energy transition and water supply.\n\nMore projects →"
   },
   {
     "objectID": "projects.html",
@@ -109,7 +109,7 @@
     "href": "projects.html#featured",
     "title": "Projects",
     "section": "Featured",
-    "text": "Featured\n\n\n\n\nOR Labs\nAn operations research web platform that I designed, built and deployed end to end. It hosts four interactive tools in English, Spanish and Catalan, free to use without signing up and with extended access for students. Front ends built with LLM-assisted development.\n\nPython Web apps Simulation Optimisation\n\n\norlabs.cloud →\n\n\n\n\n\n\nAlmaraz nuclear phase-out\nElectricity-market model behind the Greenpeace Spain report Cierre nuclear y transición energética: el caso de Almaraz (2026), with Eloy Sanz (URJC). Wholesale prices driven by gas prices, with battery damping calibrated on CAISO data, comparing closure and extension scenarios for Almaraz I and II.\n\nElectricity markets Scenario analysis Storage\n\n\nRead the report →\n\n\n\n\n\n\nWater–energy nexus of Catalonia\nPhD project. An hourly simulation model integrating renewable generation, electricity demand, reservoirs and desalination, with multi-objective optimisation of transition scenarios (emissions, cost and water security). Proposes opportunistic desalination: desalinate when renewables are in surplus.\n\nHourly simulation Multi-objective Water\n\n\nCode on GitHub → Springer paper →\n\n\n\n\n\n\nReservoir volume forecasting\nPredictive model of the water stored in the reservoirs of Catalonia’s internal river basins, developed as part of the PhD.\n\nTime series Machine learning Python\n\n\nCode on GitHub · coming soon"
+    "text": "Featured\n\n\n\n\nOR Labs\nAn operations research web platform that I designed, built and deployed end to end. It hosts four interactive tools in English, Spanish and Catalan, free to use without signing up and with extended access for students. Front ends built with LLM-assisted development.\n\nPython Web apps Simulation Optimisation\n\n\norlabs.cloud →\n\n\n\n\n\n\nAlmaraz nuclear phase-out\nCo-author, with Eloy Sanz (URJC), of the Greenpeace Spain report Cierre nuclear y transición energética: el caso de Almaraz (2026). I built the hourly electricity-market model: wholesale prices driven by gas prices, with battery damping calibrated on CAISO data, comparing closure and extension scenarios for Almaraz I and II.\n\nElectricity markets Scenario analysis Storage\n\n\nRead the report →\n\n\n\n\n\n\nWater–energy nexus of Catalonia\nPhD project. An hourly simulation model integrating renewable generation, electricity demand, reservoirs and desalination, with multi-objective optimisation of transition scenarios (emissions, cost and water security). Proposes opportunistic desalination: desalinate when renewables are in surplus.\n\nHourly simulation Multi-objective Water\n\n\nCode on GitHub → Springer paper →\n\n\n\n\n\n\nReservoir volume forecasting\nPredictive model of the water stored in the reservoirs of Catalonia’s internal river basins, developed as part of the PhD.\n\nTime series Machine learning Python\n\n\nCode on GitHub · coming soon"
   },
   {
     "objectID": "projects.html#tools-on-or-labs",
@@ -130,13 +130,13 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach simulation and network models at the Universitat Politècnica de Catalunya (UPC), Department of Statistics and Operations Research. My lab assignments use the same tools I build on OR Labs, which students can access with their university email."
+    "text": "I teach simulation and combinatorial optimisation at the Universitat Politècnica de Catalunya (UPC), Department of Statistics and Operations Research. My lab assignments use the same tools I build on OR Labs, which students can access with their university email."
   },
   {
     "objectID": "teaching.html#courses",
     "href": "teaching.html#courses",
     "title": "Teaching",
     "section": "Courses",
-    "text": "Courses\n\n2023–present\n\nDiscrete Network Models · MSc in Statistics and Operations Research\nNetwork optimisation, routing and combinatorial problems, with exact and heuristic methods.\n\n\n\n2024–present\n\nSimulation · BSc in Informatics Engineering\nDiscrete-event simulation, design of experiments and system dynamics, with hands-on lab assignments."
+    "text": "Courses\n\n2023–present\n\nDiscrete Network Models · MSc in Statistics and Operations Research\nNetwork optimisation, routing and combinatorial problems, with exact methods and metaheuristics.\n\n\n\n2024–present\n\nSimulation · BSc in Informatics Engineering\nDiscrete-event simulation, design of experiments and system dynamics, with hands-on lab assignments."
   }
 ]

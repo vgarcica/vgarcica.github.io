@@ -96,6 +96,19 @@ A web platform for operations research that I designed, built and deployed: four
 :::
 
 ::: {.project-card}
+[<i class="bi bi-droplet"></i>]{.pc-icon}
+
+### Water–energy nexus
+
+PhD thesis: hourly simulation and multi-objective optimisation of Catalonia's energy transition and water supply.
+
+::: {.card-links}
+[Defence slides →](files/thesis-defence-slides.pdf)
+[More projects →](projects.qmd)
+:::
+:::
+
+::: {.project-card}
 [<i class="bi bi-lightning-charge"></i>]{.pc-icon .amber}
 
 ### Almaraz nuclear phase-out
@@ -104,18 +117,6 @@ Co-author of the Greenpeace Spain report on closing the Almaraz nuclear plant; I
 
 ::: {.card-links}
 [Read the report →](https://es.greenpeace.org/es/wp-content/uploads/sites/3/2026/02/Informe-cierre-Almaraz-pag.pdf)
-:::
-:::
-
-::: {.project-card}
-[<i class="bi bi-droplet"></i>]{.pc-icon}
-
-### Water–energy nexus
-
-PhD thesis: hourly simulation and multi-objective optimisation of Catalonia's energy transition and water supply.
-
-::: {.card-links}
-[More projects →](projects.qmd)
 :::
 :::
 :::

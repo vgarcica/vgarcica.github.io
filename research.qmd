@@ -14,7 +14,9 @@ My research combines simulation and optimisation to support decisions in energy,
 ::: {}
 **El nexe aigua-energia de Catalunya davant la transició energètica: simulació horària, dessalinització oportunista i optimització multi-objectiu**
 
-*The water–energy nexus of Catalonia facing the energy transition: hourly simulation, opportunistic desalination and multi-objective optimisation.* Universitat Politècnica de Catalunya. Supervisor: P. Fonseca. Graded Excellent.
+*The water–energy nexus of Catalonia facing the energy transition: hourly simulation, opportunistic desalination and multi-objective optimisation.* Universitat Politècnica de Catalunya. Supervisor: Dr. Pau Fonseca i Casas. Graded Excellent.
+
+[Defence slides (PDF, in Catalan)](files/thesis-defence-slides.pdf) · [Model code on GitHub](https://github.com/vgarcica/water-energy-nexus-cat-model)
 :::
 :::
 

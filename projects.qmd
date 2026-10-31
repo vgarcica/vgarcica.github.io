@@ -26,6 +26,24 @@ An operations research web platform that I designed, built and deployed end to e
 :::
 
 ::: {.project-card}
+[<i class="bi bi-droplet"></i>]{.pc-icon}
+
+### Water–energy nexus of Catalonia
+
+PhD project. An hourly simulation model integrating renewable generation, electricity demand, reservoirs and desalination, with multi-objective optimisation of transition scenarios (emissions, cost and water security). Proposes opportunistic desalination: desalinate when renewables are in surplus.
+
+::: {.tags}
+[Hourly simulation]{.tag} [Multi-objective]{.tag} [Water]{.tag}
+:::
+
+::: {.card-links}
+[Slides (PDF, Catalan) →](files/thesis-defence-slides.pdf)
+[Code on GitHub →](https://github.com/vgarcica/water-energy-nexus-cat-model)
+[Springer paper →](https://link.springer.com/book/10.1007/978-3-032-21811-7)
+:::
+:::
+
+::: {.project-card}
 [<i class="bi bi-lightning-charge"></i>]{.pc-icon .amber}
 
 ### Almaraz nuclear phase-out
@@ -38,23 +56,6 @@ Co-author, with Eloy Sanz (URJC), of the Greenpeace Spain report *Cierre nuclear
 
 ::: {.card-links}
 [Read the report →](https://es.greenpeace.org/es/wp-content/uploads/sites/3/2026/02/Informe-cierre-Almaraz-pag.pdf)
-:::
-:::
-
-::: {.project-card}
-[<i class="bi bi-droplet"></i>]{.pc-icon}
-
-### Water–energy nexus of Catalonia
-
-PhD project. An hourly simulation model integrating renewable generation, electricity demand, reservoirs and desalination, with multi-objective optimisation of transition scenarios (emissions, cost and water security). Proposes opportunistic desalination: desalinate when renewables are in surplus.
-
-::: {.tags}
-[Hourly simulation]{.tag} [Multi-objective]{.tag} [Water]{.tag}
-:::
-
-::: {.card-links}
-[Code on GitHub →](https://github.com/vgarcica/water-energy-nexus-cat-model)
-[Springer paper →](https://link.springer.com/book/10.1007/978-3-032-21811-7)
 :::
 :::
 
